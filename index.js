@@ -68,15 +68,15 @@ $(document).ready(function() {
             break;
 
           case "rain":
-            $("body").css("background-image", "url('https://postimg.org/image/mjslqmklr/')");
+            $("body").css("background-image", "url('https://image.ibb.co/cOA9YF/rain_122691_640.jpg')");
             break;
 
           case "snow":
-            $("body").css("background-image", "url('https://postimg.org/image/xkt7ondg1/')");
+            $("body").css("background-image", "url('https://preview.ibb.co/iFWxna/winter_20248_1280.jpg')");
             break;
 
           case "sleet":
-            $("body").css("background-image", "url('https://postimg.org/image/j99c4tbmb/')");
+            $("body").css("background-image", "url('https://image.ibb.co/bOUiSa/icy_roads_567721_640.jpg')");
             break;
 
           case "wind":
@@ -84,11 +84,11 @@ $(document).ready(function() {
             break;
 
           case "fog":
-            $("body").css("background-image", "url('https://postimg.org/image/77h2xun9n/')");
+            $("body").css("background-image", "url('https://preview.ibb.co/jkqCLv/sunrise_1620381_1280.jpg')");
             break;
 
           case "cloudy":
-            $("body").css("background-image", "url('https://postimg.org/image/g033iqmi5/')");
+            $("body").css("background-image", "url('https://preview.ibb.co/iKNRfv/sky_1107579_1280.jpg')");
             break;
 
           case "partly-cloudy-day":
